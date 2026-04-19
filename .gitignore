@@ -205,3 +205,6 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+partial_effect_limit_bal.png
+partial_effect_age.png
+~WRL3669.tmp
